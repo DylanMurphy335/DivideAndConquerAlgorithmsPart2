@@ -4,10 +4,10 @@ A project in which I was given all the files uploaded but the "DivideAndConquerA
 Part 2 of 3.
 
 Included in DivideAndConquerAlgorithms.java:
-iterativeDisplayElements()
-recursiveDisplayElements()
-smallerMyList()
-biggerEqualMyList()
-concatenate()
-quickSort()
+iterativeDisplayElements(),
+recursiveDisplayElements(),
+smallerMyList(),
+biggerEqualMyList(),
+concatenate(),
+quickSort().
 *read the file for further information on these methods*
